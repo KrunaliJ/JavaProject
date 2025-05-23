@@ -2,6 +2,12 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedList;
 
+/*An ArrayList is a resizable array that can grow as needed.
+It allows you to store elements and access them by index.
+
+A LinkedList works like an ArrayList, but it stores elements in a chain.
+It's good when you need to add or remove items often.
+*/
 public class DataStrct1 {
     public static void main(String[] args){
         ArrayList<String> fruits= new ArrayList<String>();
